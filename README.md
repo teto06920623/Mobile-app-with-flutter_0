@@ -2,22 +2,17 @@
 
 A simple Flutter application that demonstrates how to implement a Navigation Drawer with a User Header and local assets.
 
-## 📸 Screenshots
-<table border="0">
+## 📸 Screenshots<table>
+*
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/650c8529-a084-4f15-96ea-3032b926c853" width="300" />
-    </td>
+    <td style="border: none;"><img src="https://github.com/user-attachments/assets/650c8529-a084-4f15-96ea-3032b926c853" width="300" /></td>
     
-    <td width="50"></td>
-
-    <td>
-      <img src="https://github.com/user-attachments/assets/807d18d7-bac2-4ac2-a365-63bfa40afa29" width="300" />
-    </td>
+    <td style="border: none; font-size: 50px; color: gray; vertical-align: middle;">|</td>
+    
+    <td style="border: none;"><img src="https://github.com/user-attachments/assets/807d18d7-bac2-4ac2-a365-63bfa40afa29" width="300" /></td>
   </tr>
 </table>
 *
-
 ## ✨ Features
 This application includes the following UI components:
 * **Custom AppBar:** Blue background with a centered title and white icons.
